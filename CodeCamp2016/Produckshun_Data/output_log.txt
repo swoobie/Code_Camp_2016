@@ -1,0 +1,287 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 980 Ti (ID=0x17c8)
+    Vendor:   NVIDIA
+    VRAM:     6102 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Unity Projects\Code_Camp_2016\CodeCamp2016\Produckshun_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Unity Projects\Code_Camp_2016\CodeCamp2016\Produckshun_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Unity Projects\Code_Camp_2016\CodeCamp2016\Produckshun_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\Unity Projects\Code_Camp_2016\CodeCamp2016\Produckshun_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\Unity Projects\Code_Camp_2016\CodeCamp2016\Produckshun_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Unity Projects\Code_Camp_2016\CodeCamp2016\Produckshun_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Unity Projects\Code_Camp_2016\CodeCamp2016\Produckshun_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading F:\Unity Projects\Code_Camp_2016\CodeCamp2016\Produckshun_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: F:\Unity Projects\Code_Camp_2016\CodeCamp2016\Produckshun_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Unity Projects\Code_Camp_2016\CodeCamp2016\Produckshun_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Unity Projects\Code_Camp_2016\CodeCamp2016\Produckshun_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Unity Projects\Code_Camp_2016\CodeCamp2016\Produckshun_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\Unity Projects\Code_Camp_2016\CodeCamp2016\Produckshun_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading F:\Unity Projects\Code_Camp_2016\CodeCamp2016\Produckshun_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+Platform assembly: F:\Unity Projects\Code_Camp_2016\CodeCamp2016\Produckshun_Data\Managed\GETween.dll (this message is harmless)
+Loading F:\Unity Projects\Code_Camp_2016\CodeCamp2016\Produckshun_Data\Managed\GETween.dll into Unity Child Domain
+Platform assembly: F:\Unity Projects\Code_Camp_2016\CodeCamp2016\Produckshun_Data\Managed\GUIAnimatorFREE.dll (this message is harmless)
+Loading F:\Unity Projects\Code_Camp_2016\CodeCamp2016\Produckshun_Data\Managed\GUIAnimatorFREE.dll into Unity Child Domain
+- Completed reload, in  0.174 seconds
+Platform assembly: F:\Unity Projects\Code_Camp_2016\CodeCamp2016\Produckshun_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Unity Projects\Code_Camp_2016\CodeCamp2016\Produckshun_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on VRCameraFade
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+desktop: 2560x1440 144Hz; virtual: 5120x1440 at -2560,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 50.895397 ms
+Hovering over: Start_Collider
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 5374 -> priority: 1 
+  Thread -> id: 5fdc -> priority: 1 
+Hovering over: Start_Collider
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Selected object: Start_Collider
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 976.671570 ms
+
+Unloading 54 unused Assets to reduce memory usage. Loaded Objects now: 1002.
+Total: 0.435863 ms (FindLiveObjects: 0.061572 ms CreateObjectMapping: 0.026315 ms MarkObjects: 0.139752 ms  DeleteObjects: 0.207967 ms)
+
+Hovering over: Cube
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Selected object: Cube
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hovering over: Cube
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hovering over: Cube (1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Selected object: Cube (1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hovering over: Cube (1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hovering over: Cube (1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hovering over: Cube
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hovering over: Cube
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Reached target!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+before yield
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+should load level
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 435.662689 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 960.
+Total: 0.414913 ms (FindLiveObjects: 0.038067 ms CreateObjectMapping: 0.013540 ms MarkObjects: 0.169389 ms  DeleteObjects: 0.193149 ms)
+
+Hovering over: ramp
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Selected object: ramp
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Reached target!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+before yield
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+should load level
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 542.158081 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1003.
+Total: 0.223041 ms (FindLiveObjects: 0.064127 ms CreateObjectMapping: 0.011752 ms MarkObjects: 0.137708 ms  DeleteObjects: 0.008942 ms)
+
+Hovering over: crate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hovering over: ramp
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Selected object: ramp
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hovering over: ramp
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hovering over: Cube
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Selected object: Cube
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hovering over: Cube
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hovering over: Cube
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hovering over: crate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Selected object: crate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hovering over: crate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hovering over: Cube
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Selected object: Cube
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Reached target!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+before yield
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+should load level
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 604.161316 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at Transition.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1002.
+Total: 0.245524 ms (FindLiveObjects: 0.035512 ms CreateObjectMapping: 0.013285 ms MarkObjects: 0.182163 ms  DeleteObjects: 0.014307 ms)
+
+Hovering over: Cube (2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Selected object: Cube (2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hovering over: Cube (2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hovering over: Cube (2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hovering over: Cube
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Selected object: Cube
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hovering over: ramp
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Selected object: ramp
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hovering over: ramp
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Hovering over: ramp
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Selected object: ramp
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Selected object: ramp
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Reached target!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+before yield
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+should load level
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 594.616516 ms
+
+Unloading 89 unused Assets to reduce memory usage. Loaded Objects now: 735.
+Total: 2.354328 ms (FindLiveObjects: 0.025037 ms CreateObjectMapping: 0.013029 ms MarkObjects: 0.190850 ms  DeleteObjects: 2.124899 ms)
+
+Scene 'MainMenu' (-1) couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 532)
+
